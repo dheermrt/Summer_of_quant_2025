@@ -1,6 +1,7 @@
 # Summer_of_quant_2025
 
-Links to Notions Pages containing resources 
+Links to Notions Pages containing resources-
+
 Week 6- https://colossal-sugar-fbb.notion.site/Week-6-22cb2bd16afa8055ace5c9dc4d002f35
 
 
